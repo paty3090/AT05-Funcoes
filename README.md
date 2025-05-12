@@ -8,7 +8,7 @@
 
 
 🔸Utilize as funções padrão do Python para calcular e exibir:
-O maior valor do conjunto de dados;
+🔸O maior valor do conjunto de dados;
 O menor valor do conjunto de dados;
 A soma de todos os valores;
 O valor absoluto de um número negativo (-25);
