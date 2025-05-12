@@ -8,11 +8,16 @@
 
 
 🔸Utilize as funções padrão do Python para calcular e exibir:
+
 🔸O maior valor do conjunto de dados;
-O menor valor do conjunto de dados;
-A soma de todos os valores;
-O valor absoluto de um número negativo (-25);
-O arredondamento do número 3.14159 para 2 casas decimais.
+
+🔸O menor valor do conjunto de dados;
+
+🔸A soma de todos os valores;]
+
+🔸O valor absoluto de um número negativo (-25);
+
+🔸O arredondamento do número 3.14159 para 2 casas decimais.
 
 
 🔸Utilize as funções do módulo statistics para calcular e exibir:
