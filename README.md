@@ -13,7 +13,7 @@
 
 🔸O menor valor do conjunto de dados;
 
-🔸A soma de todos os valores;]
+🔸A soma de todos os valores;
 
 🔸O valor absoluto de um número negativo (-25);
 
