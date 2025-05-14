@@ -1,4 +1,4 @@
-# AT05-Funções 📊📈📌
+# ATIVIDADE 05 - FUNÇÕES 📊📈📌
 
 
 1) Crie uma função chamada calcula_imc(peso=70, altura=1.75) que retorne o valor do IMC.
